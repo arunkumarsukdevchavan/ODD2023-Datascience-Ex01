@@ -20,8 +20,8 @@ Save the Clean data to the file
 
 # CODE
 ```
-Name : thirisha.s
-Register Number : 212222230160
+Name : ARUN KUMAR SUKDEV CHAVAN
+Register Number : 212222230013
 import pandas as pd
 df=pd.read_csv("/content/Loan_data (1).csv")
 print(df)
